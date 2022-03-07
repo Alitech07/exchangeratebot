@@ -2,7 +2,7 @@ import requests
 
 from pprint import pprint as print
 
-API_KEY = '2c2241afb9926ee04ed839b4'
+API_KEY = 'Your API Key'
 
 currency = 'USD'
 url = f"https://v6.exchangerate-api.com/v6/{API_KEY}/pair/{currency}/UZS"
