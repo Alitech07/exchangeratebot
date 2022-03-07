@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, executor, types
 
 from exchangerate import info, convertation
 
-API_TOKEN = '1036608912:AAHcY5VmK3eL-iKC45atYZpj9avBNBKNVsU'
+API_TOKEN = 'Your Token'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
